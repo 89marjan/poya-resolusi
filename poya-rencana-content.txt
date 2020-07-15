@@ -4,6 +4,7 @@ Rencana konten
  *ES6
  *Framwork javascript
   ^Vue
+  ^React
 -Struktur data dasar
 -PHP framworks
  *Laravel
