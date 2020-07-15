@@ -3,6 +3,7 @@ Rencana konten
 -Javascript
  *ES6
  *Framwork javascript
+-Struktur data dasar
 -PHP framworks
 -Interview
 -Vlogs
